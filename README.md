@@ -38,6 +38,9 @@ For DNA-Rendering dataset, please download it from [here](https://dna-rendering.
 
 For ZJU_MoCap dataset, please refer to this [form](https://docs.google.com/forms/d/1QcTp5qIbIBn8PCT-EQgG-fOB4HZ9khpRkT3q2OnH2bs).
 
+For HiFi4G dataset, please download it from [here](https://github.com/moqiyinlun/HiFi4G_Dataset). As there is no preprocessed smpl(-X), please extract them from multi-view videos with tools like [EasyMocap](https://github.com/zju3dv/EasyMocap).
+
+For MVHumanNet dataset, please download it from [here](https://github.com/GAP-LAB-CUHK-SZ/MVHumanNet).
 
 ## B. Experiments
 
