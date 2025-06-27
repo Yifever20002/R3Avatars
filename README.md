@@ -1,7 +1,7 @@
 # R3-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars
 ### [Project Page](https://arxiv.org/abs/2503.12751) | [Paper](https://arxiv.org/abs/2503.12751)
 >R3-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars\
->[Yifan Zhan](https://yifever20002.github.io/), Wangze Xu, [Qingtian Zhu](https://qtzhu.me/), [Muyao Niu](https://myniuuu.github.io/), Mingze Ma, Yifei Liu \
+>[Yifan Zhan](https://yifever20002.github.io/yifanzhan.github.io/), Wangze Xu, [Qingtian Zhu](https://qtzhu.me/), [Muyao Niu](https://myniuuu.github.io/), Mingze Ma, Yifei Liu \
 >[Zhihang Zhong](https://zzh-tech.github.io/), Xiao Sun, Yinqiang Zheng
 
 ![image](images/scene.png)
