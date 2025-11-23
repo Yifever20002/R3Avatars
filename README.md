@@ -24,6 +24,7 @@ Install submodules:
 Install other requirements:
 
     pip install --upgrade https://github.com/unlimblue/KNN_CUDA/releases/download/0.2/KNN_CUDA-0.2-py3-none-any.whl
+    pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
     pip install -r requirement_gauhuman.txt
 
 
